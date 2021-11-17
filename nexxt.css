@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.red{
+    /* background: black; */
+    color: white;
+}
+p{
+    background-color: rgb(3, 3, 3);
+}
+body{
+    background-image: url(lasho.f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+   
+}
+.blue{
+    color: rgb(255, 0, 0);  
+    background-color: white;
+}
